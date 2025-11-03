@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+  /* background-color: black; */
+}
+body {
+  background-color: black;
+  /* overflow-x: hidden; */
+}
+.main {
+  background-image: url(assets/images/bg.jpg);
+  background-position: center center;
+  background-size: max(1200px, 100vw);
+  background-repeat: no-repeat;
+  height: 80vh;
+  position: relative;
+}
+.main .box {
+  height: 80vh;
+  width: 100%;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  background-color: black;
+}
+nav {
+  max-width: 80vw;
+  justify-content: space-between;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  height: 82px;
+}
+nav img {
+  color: red;
+  width: 143px;
+  position: relative;
+  z-index: 10;
+}
+
+nav button {
+  position: relative;
+  z-index: 10;
+
+  background-color: #e50914;
+  color: white;
+  padding: 7px 17px;
+  border: none;
+  border-radius: 3px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+.hero {
+  font-family: "Martel Sans", sans-serif;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  position: relative;
+  gap: 23px;
+  padding: 23px;
+
+}
+.hero > :first-child {
+    text-align: center;
+  font-weight: 900;
+  font-size: 48px;
+}
+.hero > :nth-child(2) {
+    text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+}
+.hero > :nth-child(3) {
+    text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+}
+.btn {
+/* have to see this later */
+  position: relative;
+  z-index: 10;
+  padding: 7px 17px;
+  border: none;
+  border-radius: 3px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: white;
+  background-color: #e50914;
+  line-height: 24px;
+  font-family: "Martel Sans", sans-serif;
+  font-weight: 500;
+}
