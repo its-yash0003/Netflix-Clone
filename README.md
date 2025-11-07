@@ -32,7 +32,7 @@ To set up and run the **Netflix Clone** locally, follow these simple steps 👇
 
 3. 🌐 Open the Project:
 
-Open the index.html file in any modern web browser to launch your Netflix Clone and start exploring!
+   Open the index.html file in any modern web browser to launch your Netflix Clone and start exploring!
 
 
 ##🧠 Learning Takeaways
