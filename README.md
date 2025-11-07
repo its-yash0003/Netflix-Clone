@@ -1,6 +1,6 @@
-# 🎬 Netflix Clone  
+# 🎬 Netflix-Clone  
 
-🍿 **Netflix Clone** is a fully responsive web application built using **HTML**, **CSS**, and **JavaScript** that replicates the sleek and modern interface of the popular streaming platform **Netflix**.  
+🍿 **Netflix-Clone** is a fully responsive web application built using **HTML**, **CSS**, and **JavaScript** that replicates the sleek and modern interface of the popular streaming platform **Netflix**.  
 It features a dynamic homepage with movie sections, hover animations, smooth scrolling effects, and a modern UI layout — providing an immersive, Netflix-like experience.  
 
 ---
@@ -19,7 +19,7 @@ It features a dynamic homepage with movie sections, hover animations, smooth scr
 
 ## 🧪 Installation  
 
-To set up and run the **Netflix Clone** locally, follow these simple steps 👇  
+To set up and run the **Netflix-Clone** locally, follow these simple steps 👇  
 
 1. 📥 **Clone the Repository:**  
 
@@ -28,7 +28,7 @@ To set up and run the **Netflix Clone** locally, follow these simple steps 👇
 2. 📁 Navigate to the Project Directory:
 
    ```bash
-   netflix clone
+   Netflix-Clone
 
 3. 🌐 Open the Project:
 
