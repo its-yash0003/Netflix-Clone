@@ -28,7 +28,7 @@ To set up and run the **Netflix-Clone** locally, follow these simple steps 👇
 2. 📁 Navigate to the Project Directory:
 
    ```bash
-   Netflix-Clone
+   cd Netflix-Clone
 
 3. 🌐 Open the Project:
 
